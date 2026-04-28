@@ -1,3 +1,4 @@
+//If the numbers have only two factors, 1 and the number itself, it is called a prime number.
 import java.util.*;
 class Prime
 {
