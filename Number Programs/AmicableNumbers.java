@@ -1,5 +1,5 @@
+//If the sum of proper divisors of one number = the other number and vice versa, then the two numbers are called as amicable numbers.
 import java.util.*;
-
 class AmicableNumbers 
 {
     public static void main(String args[]) 
