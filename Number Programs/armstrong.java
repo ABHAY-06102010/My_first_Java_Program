@@ -1,3 +1,5 @@
+/* The sum of cube of the digits is equal to the inputted number, then the number is called as armstrong number. For example: 153 = 1³ + 5³ + 3³ = 153 */
+    
 import java.util.*;
 class armstrong
 {
