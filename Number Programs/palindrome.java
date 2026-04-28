@@ -1,3 +1,4 @@
+// If the reversed number is equal to the inputted number then the number is called as a palindrome number. for example: 11 is reversed as 11.
 import java.util.*;
 class palindrome
 {
